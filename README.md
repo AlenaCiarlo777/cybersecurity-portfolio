@@ -27,3 +27,21 @@ Medium: https://alenaciarlo777.medium.com
 
 ## 🚀 Goal
 To build a strong cybersecurity portfolio that demonstrates practical skills and supports a long-term career in cybersecurity.
+# Cybersecurity Portfolio – Alena Ciarlo
+
+Main website: https://alenaciarlo777.github.io
+
+## Projects
+
+- Password Strength Checker (Python)
+  https://github.com/alenaciarlo777/password-checker
+
+- Full Portfolio Site
+  https://alenaciarlo777.github.io
+
+## Focus Areas
+- Ethical Hacking
+- Network Security
+- SOC Operations
+- Security Automation (Python)
+
